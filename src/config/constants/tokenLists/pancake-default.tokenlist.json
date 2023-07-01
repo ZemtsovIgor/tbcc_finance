@@ -1,0 +1,54 @@
+{
+  "name": "TBCC Finance List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "TBCC",
+      "symbol": "TBCC",
+      "address": "0xf29480344d8e21efeab7fde39f8d8299056a7fea",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xf29480344d8e21EFeAB7Fde39F8D8299056A7FEA/logo.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "B8DEX",
+      "symbol": "B8T",
+      "address": "0x4dcCa80514c13dAcBd4A00c4E8dB891592a89306",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xf29480344d8e21EFeAB7Fde39F8D8299056A7FEA/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "SmartWalletToken",
+      "symbol": "SWT",
+      "address": "0xb1a5e3068837fcff1f7f2abf592a5de7a20b2a40",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11607.png"
+    }
+  ]
+}
